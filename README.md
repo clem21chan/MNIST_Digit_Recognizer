@@ -2,4 +2,4 @@
 
 Author: Clement, Tilova, Calvin 
 
-Data: MNIST 
+Data: MNIST Data Set
