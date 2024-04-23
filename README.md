@@ -3,3 +3,5 @@
 Author: Clement, Tilova, Calvin 
 
 Data: MNIST Data Set
+
+---
