@@ -1,7 +1,0 @@
-*.log
-*.pyc
-*.json
-*.xml
-.DS_store
-.gitignore
-.ipynb_checkpoints/
