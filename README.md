@@ -25,6 +25,21 @@ The data set contains images of a variety of handwritten numbers between 0-9, wh
 ## Project Workflow
 This project aims to develop machine learning models for digit recognition using the MNIST dataset. The workflow involves data preprocessing, model development, training and evaluation.
 
+## Project Structure 
+`project/
+│
+├── data/
+│   ├── sample_submission.csv
+│   ├── test.csv
+│   └── train.csv
+│
+├── Notebooks/
+│   ├── MNIST_Digit_Recognizer.ipynb
+│   └── MNIST_PyTorch.ipynb
+│
+├── README.md
+└── requirements.txt`
+
 ## Notebook Navigation
 - MNIST_Digit_Recognizer.ipynb: Notebook containing the implementation of digit recognition using various machine learning algorithms.
 - MNIST_PyTorch.ipynb: Notebook demonstrating digit recognition using PyTorch, a deep learning framework.
